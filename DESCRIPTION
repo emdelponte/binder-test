@@ -1,14 +1,14 @@
 Type: Compendium
-Package: MyRC-holepunch
-Title: Test MyRC Using Holepunch
+Package: Your compendium name
+Title: What the Package Does (One Line, Title Case)
 Version: 0.0.1
 Authors@R: 
-    person(given = "Emerson",
-           family = "Del Ponte",
+    person(given = "First",
+           family = "Last",
            role = c("aut", "cre"),
-           email = "delponte@ufv.br",
+           email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: MyRC-holepunch
+Description: Your compendium description
 License: What license it uses
 Depends: 
     dataRetrieval,
