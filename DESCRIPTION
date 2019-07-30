@@ -1,0 +1,21 @@
+Type: Compendium
+Package: MyRC-holepunch
+Title: Test MyRC Using Holepunch
+Version: 0.0.1
+Authors@R: 
+    person(given = "Emerson",
+           family = "Del Ponte",
+           role = c("aut", "cre"),
+           email = "delponte@ufv.br",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: MyRC-holepunch
+License: What license it uses
+Depends: 
+    dataRetrieval,
+    dplyr,
+    ggplot2,
+    lubridate,
+    tidyr,
+    viridis
+Encoding: UTF-8
+LazyData: true
